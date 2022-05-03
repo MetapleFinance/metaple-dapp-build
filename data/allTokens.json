@@ -1,0 +1,50 @@
+[
+  {
+    "name": "BNB",
+    "symbol": "BNB",
+    "address": "bnb",
+    "chainId": 97,
+    "decimals": 18,
+    "tokenImg": "/tokens/bnb.png"
+  },
+  {
+    "name": "METAPLE",
+    "symbol": "MLX",
+    "address": "0xCbd5396216def34cc65FB9982b1a5d085CCD1212",
+    "chainId": 97,
+    "decimals": 18,
+    "tokenImg": "/tokens/mlx.png"
+  },
+  {
+    "name": "BUSD",
+    "symbol": "BUSD",
+    "address": "0xeD24FC36d5Ee211Ea25A80239Fb8C4Cfd80f12Ee",
+    "chainId": 97,
+    "decimals": 18,
+    "tokenImg": "https://tokens.pancakeswap.finance/images/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56.png"
+  },
+  {
+    "name": "PancakeSwap",
+    "symbol": "CAKE",
+    "address": "0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe",
+    "chainId": 97,
+    "decimals": 18,
+    "tokenImg": "https://tokens.pancakeswap.finance/images/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png"
+  },
+  {
+    "name": "BakerySwap Token",
+    "symbol": "BAKE",
+    "address": "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
+    "chainId": 97,
+    "decimals": 18,
+    "tokenImg": "https://tokens.pancakeswap.finance/images/0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5.png"
+  },
+  {
+    "name": "StarZila Token",
+    "symbol": "SKZ",
+    "address": "0xe7acF39A1a0A6231B4B47e46B39b48f9BC5aBfb2",
+    "chainId": 97,
+    "decimals": 18,
+    "tokenImg": "https://tokens.pancakeswap.finance/images/0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5.png"
+  }
+]

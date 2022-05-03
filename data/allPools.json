@@ -1,0 +1,40 @@
+[
+  {
+    "id": 0,
+    "stakeAddress": "",
+    "stakePairName": "MLX POOL",
+    "stakeAssetImage": "",
+    "totalLiquidity": 0,
+    "earnToken": "",
+    "hasStaked": false,
+    "stakedAmount": 0,
+    "isCompounding": true,
+    "apr": 0,
+    "apy": 0
+  },
+  {
+    "id": 1,
+    "stakeAddress": "",
+    "stakePairName": "MLX DPoS POOL",
+    "stakeAssetImage": "",
+    "totalLiquidity": 0,
+    "earnToken": "",
+    "hasStaked": false,
+    "stakedAmount": 0,
+    "isCompounding": true,
+    "apr": 0,
+    "apy": 0
+  },
+  {
+    "id": 4,
+    "stakeAddress": "",
+    "stakePairName": "BUSD POOL",
+    "stakeAssetImage": "",
+    "totalLiquidity": 0,
+    "earnToken": "",
+    "hasStaked": false,
+    "stakedAmount": 0,
+    "apr": 0,
+    "apy": 0
+  }
+]

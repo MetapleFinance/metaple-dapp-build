@@ -1,0 +1,24 @@
+{
+  "name": "METAPLE Tokens",
+  "timestamp": "2021-11-24T11:38:02.989Z",
+  "version": {
+    "major": 2,
+    "minor": 16,
+    "patch": 42
+  },
+  "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82/logo.png",
+  "keywords": [
+    "METAPLE",
+    "extended"
+  ],
+  "tokens": [
+    {
+      "name": "METAPLE",
+      "symbol": "MLX",
+      "address": "0xCbd5396216def34cc65FB9982b1a5d085CCD1212",
+      "chainId": 97,
+      "decimals": 18,
+      "tokenImg": "/tokens/mlx.png"
+    }
+  ]
+}

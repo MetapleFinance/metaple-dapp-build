@@ -1,0 +1,26 @@
+[
+  {
+    "id": 2,
+    "stakeAddress": "",
+    "stakePairName": "MLX-BNB LP",
+    "stakeAssetImage": "",
+    "totalLiquidity": 0,
+    "earnToken": "",
+    "hasStaked": false,
+    "stakedAmount": 0,
+    "apr": 0,
+    "apy": 0
+  },
+  {
+    "id": 3,
+    "stakeAddress": "",
+    "stakePairName": "MLX-BUSD LP",
+    "stakeAssetImage": "",
+    "totalLiquidity": 0,
+    "earnToken": "",
+    "hasStaked": false,
+    "stakedAmount": 0,
+    "apr": 0,
+    "apy": 0
+  }
+]
