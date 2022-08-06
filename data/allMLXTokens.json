@@ -15,8 +15,8 @@
     {
       "name": "METAPLE",
       "symbol": "MLX",
-      "address": "0xCbd5396216def34cc65FB9982b1a5d085CCD1212",
-      "chainId": 97,
+      "address": "0xeBDA6aaE3f8c96eAEbe33cEEbbAE24Fc39F315d6",
+      "chainId": 56,
       "decimals": 18,
       "tokenImg": "/tokens/mlx.png"
     }

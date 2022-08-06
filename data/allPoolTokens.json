@@ -10,24 +10,24 @@
   {
     "name": "METAPLE",
     "symbol": "MLX",
-    "address": "0xCbd5396216def34cc65FB9982b1a5d085CCD1212",
-    "chainId": 97,
+    "address": "0xeBDA6aaE3f8c96eAEbe33cEEbbAE24Fc39F315d6",
+    "chainId": 56,
     "decimals": 18,
     "tokenImg": "/tokens/mlx.png"
   },
   {
     "name": "BUSD",
     "symbol": "BUSD",
-    "address": "0xeD24FC36d5Ee211Ea25A80239Fb8C4Cfd80f12Ee",
-    "chainId": 97,
+    "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "chainId": 56,
     "decimals": 18,
     "tokenImg": "https://tokens.pancakeswap.finance/images/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56.png"
   },
   {
     "name": "PancakeSwap",
     "symbol": "CAKE",
-    "address": "0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe",
-    "chainId": 97,
+    "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+    "chainId": 56,
     "decimals": 18,
     "tokenImg": "https://tokens.pancakeswap.finance/images/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png"
   },
