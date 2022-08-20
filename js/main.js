@@ -92,7 +92,7 @@ window.onload = function() {
         // activate new tabs and panel
         event.target.classList.add('active');
         let classString = event.target.getAttribute('data-target');
-        console.log(classString);
+        // console.log(classString);
         document.getElementById('panels').getElementsByClassName(classString)[0].classList.add("active");
     }
 
