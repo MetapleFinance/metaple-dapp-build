@@ -22,5 +22,29 @@
     "stakedAmount": 0,
     "apr": 0,
     "apy": 0
+  },
+  {
+    "id": 4,
+    "stakeAddress": "",
+    "stakePairName": "MLX-CAKE LP",
+    "stakeAssetImage": "",
+    "totalLiquidity": 0,
+    "earnToken": "",
+    "hasStaked": false,
+    "stakedAmount": 0,
+    "apr": 0,
+    "apy": 0
+  },
+  {
+    "id": 5,
+    "stakeAddress": "",
+    "stakePairName": "MLX-BAKE LP",
+    "stakeAssetImage": "",
+    "totalLiquidity": 0,
+    "earnToken": "",
+    "hasStaked": false,
+    "stakedAmount": 0,
+    "apr": 0,
+    "apy": 0
   }
 ]
